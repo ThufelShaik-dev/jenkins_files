@@ -2,8 +2,8 @@
 
 # Step - 1 : Create Linux VM
 
-Create Ubuntu VM using AWS EC2 (t2.medium)
-Enable 8080 Port Number in Security Group Inbound Rules
+Create Ubuntu VM using AWS EC2 (t2.medium) ->
+Enable 8080 Port Number in Security Group Inbound Rules ->
 Connect to Ubuntu VM using GitBash
 
 ## Step-2 : Instal Java
@@ -51,4 +51,4 @@ http://public-ip:8080/
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 
-Step-8 : Create Admin Account & Install Required Plugins in Jenkins
+## Step-8 : Create Admin Account & Install Required Plugins in Jenkins
